@@ -1,0 +1,47 @@
+body {
+  font-family: Arial, sans-serif;
+  text-align: center;
+  background-color: #ffe6e6;
+  padding: 20px;
+}
+
+h1 {
+  color: #b30000;
+}
+
+.sos {
+  background-color: red;
+  color: white;
+  font-size: 30px;
+  padding: 20px 50px;
+  border: none;
+  border-radius: 50px;
+  cursor: pointer;
+}
+
+.sos:hover {
+  background-color: darkred;
+}
+
+#msg {
+  font-size: 18px;
+  color: green;
+  margin-top: 15px;
+}
+.call-box {
+  margin-top: 20px;
+}
+
+.call-btn {
+  display: inline-block;
+  background-color: #007bff;
+  color: white;
+  padding: 12px 25px;
+  text-decoration: none;
+  border-radius: 30px;
+  font-size: 18px;
+}
+
+.call-btn:hover {
+  background-color: #0056b3;
+}
